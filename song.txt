@@ -3,7 +3,10 @@ sani deb 10 yilga qaridim
 
 
 nigga says what?
+<<<<<<< HEAD
 
 for learning git reset
 
 xa
+=======
+>>>>>>> 45fdb87683694da2a5b3250ea7fcdf543e116535
